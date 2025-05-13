@@ -132,7 +132,7 @@ info:
     #   outlink: https://twitter.com/username
     #   message: Twitter
     - name: envelope
-      outlink: 823256798@qq.com
+      outlink: accessok@163.com
       message: Email
     - name: github
       outlink: https://github.com/AccessOK
